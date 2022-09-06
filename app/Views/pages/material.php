@@ -10,7 +10,7 @@ $this->section('body');
                 <img src="/img/logo.png" alt="Logo Telkom Akses">
             </div>
             <div id="chooseButton">
-                <a href="stock-opname"><button type="button" class="btn btn-dark">Stock Opname</button></a>
+                <a href="/stock-opname"><button type="button" class="btn btn-dark">Stock Opname</button></a>
                 <a href="input-barang-masuk">
                     <button type="button" class="btn btn-secondary">
                         Input Material Baru
@@ -145,12 +145,10 @@ $this->section('body');
             echo "</div>";
         ?>
     </main>
-    <footer>
-        <img src="/img/unsri.png" alt="logo unsri" style="width: 40px">
-        <span id="copy">&copy; <?php echo date('Y')?> This project made with love by Mahasiswa Magang Universitas
-            Sriwijaya</span>
-        <span id="us"><a href="#">Tentang Kami</a></span>
-    </footer>
+
+    <?php 
+        include 'footer.php';
+    ?>
 
     <script type="text/javascript">
     function konfirmasi() {
@@ -162,10 +160,6 @@ $this->section('body');
             return false;
         }
     }
-
-
-
-
     const buttonHapus = document.getElementById('hapusData');
     const formHapus = document.getElementById('formHapus');
 
