@@ -159,7 +159,7 @@ Pull requests are not available for non-contributor. If you have any questions o
 
 ## 11. License
 Copyright &copy; 2022 by Fadhil Zahran Muwafa & Muhammad Rafi Akbar<br>
-This project is under the [MIT](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/LICENSE).
+This project is under the [MIT](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/LICENSE) License.
 
 
 ## 12. Acknowledgement
