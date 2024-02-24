@@ -3,13 +3,16 @@ Developed by:
 1. [Muhammad Fadhil Zahran Muwafa](https://www.linkedin.com/in/fadhil-zahran-muwafa-269747261) (Project Leader & Back-end)
 2. [Muhammad Rafi Akbar](https://linkedin.com/in/murafba) (Project Assistant & Front-end)
 
+
 ## 1. Introduction
-This web-based application is developed using the CodeIgniter 4 framework. The purpose of this app is to manage all incoming and outgoing Network Terminal Equipment (NTE) material data and perform automatic stock opname. It represents an innovative solution developed by the Informatics Engineering interns of Sriwijaya University, led by Muhammad Fadhil Zahran Muwafa. According to our report, this application has resulted in a 50% efficiency improvement in performing stock opname. Consequently, warehouse administrators at PT Telkom Akses Palembang no longer need to manually conduct weekly stock opname, thanks to this app. 
-<br>
+This web-based application is developed using the CodeIgniter 4 framework. The purpose of this app is to manage all incoming and outgoing Network Terminal Equipment (NTE) material data and perform automatic stock opname. It represents an innovative solution developed by the Informatics Engineering interns of Sriwijaya University, led by Muhammad Fadhil Zahran Muwafa. According to our report, this application has resulted in a 50% efficiency improvement in performing stock opname. Consequently, warehouse administrators at PT Telkom Akses Palembang no longer need to manually conduct weekly stock opname, thanks to this app.
+
+> [!NOTE]
+> As part of our academic requirements, this intership program conducted from July to August 2022 fulfills the practical work component of our university curriculum. The output of our intership project, namely this application, earned us an *A* grad (Excellent) from our supervising lecturer. We are deemed to have successfully applied the knowledge acquired from our university by delivering innovative solutions in the form ou this application along wih written reports to the company.
 
 ## 2. What is CodeIgniter?
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure. More information can be found at the [official site](http://codeigniter.com). This repository holds a composer-installable app starter. It has been built from the [development repository](https://github.com/codeigniter4/CodeIgniter4). More information about the plans for version 4 can be found in [the announcement](http://forum.codeigniter.com/thread-62615.html) on the forums. The user guide corresponding to this version of the framework can be found [here](https://codeigniter4.github.io/userguide/).
-<br>
+
 
 ## 3. CodeIgniter 4 Installation & Updates
 1. `composer create-project codeigniter4/appstarter` then `composer update` whenever there is a new release of the framework.
@@ -26,17 +29,19 @@ CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and 
 5. Run command `php spark serve`
 6. Open localhost URL in your browser
 
+
 ## 5. Important Change with `index.php`
 > [!IMPORTANT]
 > `index.php` is no longer in the root of the project! It has been moved inside the *public* folder, for better security and separation of components.
 > This means that you should configure your web server to "point" to your project's *public* folder, and not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the framework are exposed.
 
-## 5. Repository Management
+
+## 6. Repository Management
 We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages. We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss FEATURE REQUESTS.
 
 This repository is a "distribution" one, built by our release preparation script. Problems with it can be raised on our forum, or as issues in the main repository.
 
-## 6. Server Requirements
+## 7. Server Requirements
 PHP version 7.4 or higher is required, with the following extensions installed:
 - [intl](http://php.net/manual/en/intl.requirements.php)
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
@@ -51,8 +56,11 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [libcurl](https://php.net/manual/en/curl.requirements.php) -  If you plan to use the HTTP\CURLRequest library
 <br>
 
-## 7. Graphical User Interface In a Nutshell
-Figure 1 is the application usecase diagram.
+## 8. Graphical User Interface
+Figure 1 is the application usecase diagram.<br>
 ![Use Case Diagram](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/usecase/d_useCase.png? "Usecase Diagram")
 *Fig. 1 Use Case Diagram*
+
+### 8.1 Login Page
+
 
