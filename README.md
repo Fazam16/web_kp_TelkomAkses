@@ -109,3 +109,7 @@ Project Assistant: Graduate of Sriwijaya University, Department of Informatics E
 ## 10. How To Contribute
 Pull requests are not available. If you have any questions or recommendations regarding this project, please feel free to comment in the [Issues](https://github.com/Fazam16/web_kp_TelkomAkses/issues) section.
 
+
+## 11. License
+Copyright &copy; 2022 by Muhammad Fadhil Zahran Muwafa & Muhammad Rafi Akbar<br>
+This project is under the [MIT](https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=MIT-1-ov-file#readme).
