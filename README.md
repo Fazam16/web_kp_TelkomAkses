@@ -7,22 +7,19 @@ Developed by:
 This web-based application is developed using the CodeIgniter 4 framework. The purpose of this app is to manage all incoming and outgoing Network Terminal Equipment (NTE) material data and perform automatic stock opname. It represents an innovative solution developed by the Informatics Engineering interns of Sriwijaya University, led by Muhammad Fadhil Zahran Muwafa. According to our report, this application has resulted in a 50% efficiency improvement in performing stock opname. Consequently, warehouse administrators at PT Telkom Akses Palembang no longer need to manually conduct weekly stock opname, thanks to this app. 
 
 ## 2. What is CodeIgniter?
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure. More information can be found at the [official site](http://codeigniter.com).
+CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure. More information can be found at the [official site](http://codeigniter.com). This repository holds a composer-installable app starter. It has been built from the [development repository](https://github.com/codeigniter4/CodeIgniter4). More information about the plans for version 4 can be found in [the announcement](http://forum.codeigniter.com/thread-62615.html) on the forums. The user guide corresponding to this version of the framework can be found [here](https://codeigniter4.github.io/userguide/).
 
-This repository holds a composer-installable app starter. It has been built from the [development repository](https://github.com/codeigniter4/CodeIgniter4).
+## 3. CodeIgniter 4 Installation & Updates
 
-More information about the plans for version 4 can be found in [the announcement](http://forum.codeigniter.com/thread-62615.html) on the forums.
+`composer create-project codeigniter4/appstarter` then `composer update` whenever there is a new release of the framework.
 
-The user guide corresponding to this version of the framework can be found [here](https://codeigniter4.github.io/userguide/).
+When updating, check the release notes to see if there are any changes you might need to apply to your `app` folder. The affected files can be copied or merged from `vendor/codeigniter4/framework/app`.
 
-## 3. Installation & Updates
-
-`composer create-project codeigniter4/appstarter` then `composer update` whenever
-there is a new release of the framework.
-
-When updating, check the release notes to see if there are any changes you might need to apply
-to your `app` folder. The affected files can be copied or merged from
-`vendor/codeigniter4/framework/app`.
+Run the commands below to check whether the CI4 instalation has been succeeded.
+'''
+cd <your_dir>
+php spark serve
+'''
 
 ## Setup
 
