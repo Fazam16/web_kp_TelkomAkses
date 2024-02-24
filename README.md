@@ -154,7 +154,7 @@ Hello, if you are interested about people behind this lovely project, you can re
 
 
 ## 10. How To Contribute
-Pull requests are not available. If you have any questions or recommendations regarding this project, please feel free to comment in the [Issues](https://github.com/Fazam16/web_kp_TelkomAkses/issues) section.
+Pull requests are not available for non-contributor. If you have any questions or recommendations regarding this project, please feel free to comment in the [Issues](https://github.com/Fazam16/web_kp_TelkomAkses/issues) section.
 
 
 ## 11. License
