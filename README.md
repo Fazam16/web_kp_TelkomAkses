@@ -1,6 +1,6 @@
 # Telkom Akses Palembang Stock Opname Application
 Developed by:
-1. [Muhammad Fadhil Zahran Muwafa](https://www.linkedin.com/in/fadhil-zahran-muwafa-269747261) (Project Leader & Back-end)
+1. [Fadhil Zahran Muwafa](https://www.linkedin.com/in/fadhil-zahran-muwafa-269747261) (Project Leader & Back-end)
 2. [Muhammad Rafi Akbar](https://linkedin.com/in/murafba) (Project Assistant & Front-end)
 
 <details>
@@ -54,7 +54,7 @@ Developed by:
 
 
 ## 1. Introduction
-This web-based application is developed using the CodeIgniter 4 framework. The purpose of this app is to manage all incoming and outgoing Network Terminal Equipment (NTE) material data and perform automatic stock opname. It represents an innovative solution developed by the Informatics Engineering interns of Sriwijaya University, led by Muhammad Fadhil Zahran Muwafa. According to our report, this application has resulted in a 50% efficiency improvement in performing stock opname. Consequently, warehouse administrators at PT Telkom Akses Palembang no longer need to manually conduct daily and weekly stock opname, thanks to this app.
+This web-based application is developed using the CodeIgniter 4 framework. The purpose of this app is to manage all incoming and outgoing Network Terminal Equipment (NTE) material data and perform automatic stock opname. It represents an innovative solution developed by the Informatics Engineering interns of Sriwijaya University, led by Fadhil Zahran Muwafa. According to our report, this application has resulted in a 50% efficiency improvement in performing stock opname. Consequently, warehouse administrators at PT Telkom Akses Palembang no longer need to manually conduct daily and weekly stock opname, thanks to this app.
 
 > [!NOTE]
 > As part of our academic requirements, this intership program conducted from July to August 2022 fulfills the practical work component of our university curriculum. The output of our intership project, namely this application, earned us an *A* grade (Excellent) from our supervising lecturer. We are deemed to have successfully applied the knowledge acquired from our university by delivering innovative solutions in the form of this application along wih written reports to the company and supervising lecturer.
@@ -143,7 +143,7 @@ After inputting new material data (see subpoint 8.4), the warehouse administrato
 
 ## 9. About The Authors
 Hello, if you are interested about people behind this lovely project, you can reach out to us through the following accounts.
-1. Muhammad Fadhil Zahran Muwafa (Project Leader: Graduate of Sriwijaya University, Department of Informatics Engineering 2020-2024, Faculty of Computer Science)
+1. Fadhil Zahran Muwafa (Project Leader: Graduate of Sriwijaya University, Department of Informatics Engineering 2020-2024, Faculty of Computer Science)
    - [LinkedIn](https://linkedin.com/in/fadhil-zahran-muwafa-269747261)
    - [Instagram](https://instagram.com/fadhilzhrn)
    - [GitHub](https://github.com/Fazam16)
@@ -158,7 +158,7 @@ Pull requests are not available. If you have any questions or recommendations re
 
 
 ## 11. License
-Copyright &copy; 2022 by Muhammad Fadhil Zahran Muwafa & Muhammad Rafi Akbar<br>
+Copyright &copy; 2022 by Fadhil Zahran Muwafa & Muhammad Rafi Akbar<br>
 This project is under the [MIT](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/LICENSE).
 
 
