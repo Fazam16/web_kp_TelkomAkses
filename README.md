@@ -19,21 +19,22 @@ CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and 
 
 
 ## 4. Setup
-Copy `env` to `.env` and tailor for your app, specifically the baseURL
-and any database settings.
+1. Clone the repository using `git clone`
+2. Copy `env` to `.env` and tailor for your app, specifically the baseURL and any database settings.
+3. Run command `composer install`
+4. Run command `php spark migrate`
+5. Run command `php spark serve`
+6. Open localhost URL in your browser
 
-
+## 5. Important Change with `index.php`
 > [!IMPORTANT]
-> **Important Change with index.php<br>**
 > `index.php` is no longer in the root of the project! It has been moved inside the *public* folder, for better security and separation of components.
 > This means that you should configure your web server to "point" to your project's *public* folder, and not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the framework are exposed.
-<br>
 
 ## 5. Repository Management
 We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages. We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss FEATURE REQUESTS.
 
 This repository is a "distribution" one, built by our release preparation script. Problems with it can be raised on our forum, or as issues in the main repository.
-
 
 ## 6. Server Requirements
 PHP version 7.4 or higher is required, with the following extensions installed:
