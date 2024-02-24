@@ -46,6 +46,9 @@ Developed by:
     <li>
       <a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#11-license">11. License</a>
     </li>
+    <li>
+      <a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#12-acknowledgement">12. Acknowledgement</a>
+    </li>
   </ul>
 </details>
 
@@ -156,7 +159,7 @@ Pull requests are not available. If you have any questions or recommendations re
 
 ## 11. License
 Copyright &copy; 2022 by Muhammad Fadhil Zahran Muwafa & Muhammad Rafi Akbar<br>
-This project is under the [MIT](https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=MIT-1-ov-file#readme).
+This project is under the [MIT](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/LICENSE).
 
 
 ## 12. Acknowledgement
