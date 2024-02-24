@@ -61,13 +61,13 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## 8. Graphical User Interface
 Figure 1 is the application usecase diagram.<br>
 
-![Use Case Diagram](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/usecase/d_useCase.png? "Usecase Diagram")
+![Use Case Diagram](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/usecase/d_useCase.png?raw=true "Usecase Diagram")
 *Fig. 1 Use Case Diagram*
 
 > [!TIP]
 > Due to the plain background of the diagrams we created, such as use case, sequnce, and activity diagrams, we are unable to include all of them in this file. We are afraid you set the dark mode on your GitHub interface. You can download the relevant diagrams to further enhance your understanding of this application through the following [link](https://github.com/Fazam16/web_kp_TelkomAkses/tree/main/supporting_images)
 
 ### 8.1 Login Page
-![Use Case Diagram](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/usecase/d_useCase.png? "Usecase Diagram")
-*Fig. 1 Use Case Diagram*
+![Login Page](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/interface/halaman_login.png?raw=true "Login Page")
+*Fig. 2 Login Page*
 
