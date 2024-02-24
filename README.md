@@ -3,6 +3,52 @@ Developed by:
 1. [Muhammad Fadhil Zahran Muwafa](https://www.linkedin.com/in/fadhil-zahran-muwafa-269747261) (Project Leader & Back-end)
 2. [Muhammad Rafi Akbar](https://linkedin.com/in/murafba) (Project Assistant & Front-end)
 
+<details>
+  <summary>Table of Contents</summary>
+  <ul>
+    <li>
+      <a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#1-introduction">1. Introduction</a>
+    </li>
+    <li>
+      <a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#2-what-is-codeigniter">2. What is CodeIgniter?</a>
+    </li>
+    <li>
+      <a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#3-codeigniter-4-installation--updates">3. CodeIgniter 4 Instalation and Updates</a>
+    </li>
+    <li>
+      <a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#4-setup">4. Setup</a>
+    </li>
+    <li>
+      <a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#5-important-change-with-indexphp">5. Important Change with `index.php`</a>
+    </li>
+    <li>
+      <a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#6-repository-management">6. Repository Management</a>
+    </li>
+    <li>
+      <a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#7-server-requirements">7. Server Requirements</a>
+    </li>
+    <li>
+      <a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#8-features--functionalities">8. Features and Functionalities</a>
+        <ul>
+           <li><a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#81-login-page">8.1 Login Page</a></li>
+           <li><a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#82-dashboard-page">8.2 Dashboard Page</a></li>
+           <li><a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#83-stock-opname-page">8.3 Stock Opname Page</a></li>
+           <li><a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#84-input-new-materials-page">8.4 Input New Materials Page</a></li>
+           <li><a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#85-see-data-page">8.5 See Data Page</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#9-about-the-authors">9. About The Authors</a>
+    </li>
+    <li>
+      <a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#10-how-to-contribute">10. How To Contribute</a>
+    </li>
+    <li>
+      <a href="https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=readme-ov-file#11-license">11. License</a>
+    </li>
+  </ul>
+</details>
+
 
 ## 1. Introduction
 This web-based application is developed using the CodeIgniter 4 framework. The purpose of this app is to manage all incoming and outgoing Network Terminal Equipment (NTE) material data and perform automatic stock opname. It represents an innovative solution developed by the Informatics Engineering interns of Sriwijaya University, led by Muhammad Fadhil Zahran Muwafa. According to our report, this application has resulted in a 50% efficiency improvement in performing stock opname. Consequently, warehouse administrators at PT Telkom Akses Palembang no longer need to manually conduct daily and weekly stock opname, thanks to this app.
@@ -113,3 +159,7 @@ Pull requests are not available. If you have any questions or recommendations re
 ## 11. License
 Copyright &copy; 2022 by Muhammad Fadhil Zahran Muwafa & Muhammad Rafi Akbar<br>
 This project is under the [MIT](https://github.com/Fazam16/web_kp_TelkomAkses/tree/main?tab=MIT-1-ov-file#readme).
+
+
+## 12. Acknowledgement
+As the developers, we are aware that the developed application still has some shortcomings. Hence, constructive critism, suggestions, or recommendations from you are highly appreciated.
