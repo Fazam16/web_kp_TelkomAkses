@@ -60,6 +60,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 
 ## 8. Graphical User Interface
 Figure 1 is the application usecase diagram.<br>
+
 ![Use Case Diagram](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/usecase/d_useCase.png? "Usecase Diagram")
 *Fig. 1 Use Case Diagram*
 
