@@ -58,7 +58,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [libcurl](https://php.net/manual/en/curl.requirements.php) -  If you plan to use the HTTP\CURLRequest library
 
 
-## 8. Graphical User Interface
+## 8. Features & Functionalities
 Figure 1 is the application usecase diagram.<br>
 
 ![Use Case Diagram](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/usecase/d_useCase.png?raw=true "Usecase Diagram")
@@ -70,4 +70,11 @@ Figure 1 is the application usecase diagram.<br>
 ### 8.1 Login Page
 ![Login Page](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/interface/halaman_login.png?raw=true "Login Page")
 *Fig. 2 Login Page*
+
+### 8.2 Dashboard Page
+The dashboard page displays all incoming and outgoing NTE data entered by the user, the warehouse administrator. On this page, users can export data in `.txt` or `.xlsx` formats. Additionally, users can delete data either entirely or one by one. Figure 3 shows the dashboard page.
+![Dashboard Page](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/interface/halaman_dashboard.png?raw=true "Dashboard Page")
+*Fig. 3 Dashboard Page*
+
+
 
