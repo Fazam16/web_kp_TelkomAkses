@@ -72,9 +72,11 @@ Figure 1 is the application usecase diagram.<br>
 *Fig. 2 Login Page*
 
 ### 8.2 Dashboard Page
-The dashboard page displays all incoming and outgoing NTE data entered by the user, the warehouse administrator. On this page, users can export data in `.txt` or `.xlsx` formats. Additionally, users can delete data either entirely or one by one. Figure 3 shows the dashboard page.
+The dashboard page displays all incoming and outgoing NTE data entered by the user, the warehouse administrator. On this page, users can export data in `.txt` or `.xlsx` formats for performing stock opname on Supply Chain Management (SCM) Telkom application afterward, so there is no need to create `.txt` or `.xlsx` files from scratch. Additionally, users can delete data either entirely or one by one. Figure 3 shows the dashboard page.
 ![Dashboard Page](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/interface/halaman_dashboard.png?raw=true "Dashboard Page")
 *Fig. 3 Dashboard Page*
 
-
-
+### 8.3 Stock Opname Page
+This page serves to input data regarding incoming and outgoing NTE materials. Users can also view input history for further cross-checking in case of errors. At the top section, users can search for the specific data to perform actions, either for editing or deleting.
+![Stock Opname Page](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/interface/halaman_stockOpname.png?raw=true "Stock Opname Page")
+*Fig. 4 Stock Opname Page*
