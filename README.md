@@ -5,7 +5,7 @@ Developed by:
 
 
 ## 1. Introduction
-This web-based application is developed using the CodeIgniter 4 framework. The purpose of this app is to manage all incoming and outgoing Network Terminal Equipment (NTE) material data and perform automatic stock opname. It represents an innovative solution developed by the Informatics Engineering interns of Sriwijaya University, led by Muhammad Fadhil Zahran Muwafa. According to our report, this application has resulted in a 50% efficiency improvement in performing stock opname. Consequently, warehouse administrators at PT Telkom Akses Palembang no longer need to manually conduct weekly stock opname, thanks to this app.
+This web-based application is developed using the CodeIgniter 4 framework. The purpose of this app is to manage all incoming and outgoing Network Terminal Equipment (NTE) material data and perform automatic stock opname. It represents an innovative solution developed by the Informatics Engineering interns of Sriwijaya University, led by Muhammad Fadhil Zahran Muwafa. According to our report, this application has resulted in a 50% efficiency improvement in performing stock opname. Consequently, warehouse administrators at PT Telkom Akses Palembang no longer need to manually conduct daily and weekly stock opname, thanks to this app.
 
 > [!NOTE]
 > As part of our academic requirements, this intership program conducted from July to August 2022 fulfills the practical work component of our university curriculum. The output of our intership project, namely this application, earned us an *A* grade (Excellent) from our supervising lecturer. We are deemed to have successfully applied the knowledge acquired from our university by delivering innovative solutions in the form of this application along wih written reports to the company and supervising lecturer.
@@ -90,3 +90,22 @@ One of the inefficient activities performed by the Warehouse Administrator is in
 After inputting new material data (see subpoint 8.4), the warehouse administrator can view the results on this page. Users can export data into an Excel file to be saved and used as a report. Additionally, users must delete all data if new materials are sent to the warehouse the following week.
 ![See Data Page](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/interface/hlm_lihat_data.png?raw=true "See Data Page")
 *Fig. 6 See Data Page*
+
+
+## 9. About The Authors
+Hello, if you are interested about people behind this lovely project, you can reach out to us through the following accounts.
+1. Muhammad Fadhil Zahran Muwafa
+Project Leader: Graduate of Sriwijaya University, Department of Informatics Engineering 2020-2024, Faculty of Computer Science
+   - [LinkedIn](https://linkedin.com/in/fadhil-zahran-muwafa-269747261)
+   - [Instagram](https://instagram.com/fadhilzhrn)
+   - [GitHub](https://github.com/Fazam16)
+3. Muhammad Rafi Akbar
+Project Assistant: Graduate of Sriwijaya University, Department of Informatics Engineering 2020-2024, Faculty of Computer Science
+   - [LinkedIn](https://linkedin.com/in/murafba)
+   - [Instagram](https://instagram.com/murafba)
+   - [GitHub](https://github.com/murafba)
+
+
+## 10. How To Contribute
+Pull requests are not available. If you have any questions or recommendations regarding this project, please feel free to comment in the [Issues](https://github.com/Fazam16/web_kp_TelkomAkses/issues) section.
+
