@@ -1,7 +1,10 @@
-# Aplikasi Web Telkom Akses
+# Telkom Akses Palembang Stock Opname Application
 Developed by:
-1. Muhammad Fadhil Zahran Muwafa (Project Leader & Back-end)
-2. Muhammad Rafi Akbar (Project Assistant & Front-end)
+1. [Muhammad Fadhil Zahran Muwafa](https://www.linkedin.com/in/fadhil-zahran-muwafa-269747261) (Project Leader & Back-end)
+2. [Muhammad Rafi Akbar](https://linkedin.com/in/murafba) (Project Assistant & Front-end)
+
+## 1. Introduction
+This web-based application is developed using the CodeIgniter 4 framework. The purpose of this app is to manage all incoming and outgoing Network Terminal Equipment (NTE) material data and perform automatic stock opname. It represents an innovative solution developed by the Informatics Engineering interns of Sriwijaya University, led by Muhammad Fadhil Zahran Muwafa. According to our report, this application has resulted in a 50% efficiency improvement in performing stock opname. Consequently, warehouse administrators at PT Telkom Akses Palembang no longer need to manually conduct weekly stock opname, thanks to this app. 
 
 ## What is CodeIgniter?
 
