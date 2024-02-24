@@ -10,6 +10,7 @@ This web-based application is developed using the CodeIgniter 4 framework. The p
 > [!NOTE]
 > As part of our academic requirements, this intership program conducted from July to August 2022 fulfills the practical work component of our university curriculum. The output of our intership project, namely this application, earned us an *A* grade (Excellent) from our supervising lecturer. We are deemed to have successfully applied the knowledge acquired from our university by delivering innovative solutions in the form of this application along wih written reports to the company and supervising lecturer.
 
+
 ## 2. What is CodeIgniter?
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure. More information can be found at the [official site](http://codeigniter.com). This repository holds a composer-installable app starter. It has been built from the [development repository](https://github.com/codeigniter4/CodeIgniter4). More information about the plans for version 4 can be found in [the announcement](http://forum.codeigniter.com/thread-62615.html) on the forums. The user guide corresponding to this version of the framework can be found [here](https://codeigniter4.github.io/userguide/).
 
@@ -41,6 +42,7 @@ We use GitHub issues, in our main repository, to track **BUGS** and to track app
 
 This repository is a "distribution" one, built by our release preparation script. Problems with it can be raised on our forum, or as issues in the main repository.
 
+
 ## 7. Server Requirements
 PHP version 7.4 or higher is required, with the following extensions installed:
 - [intl](http://php.net/manual/en/intl.requirements.php)
@@ -54,13 +56,17 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) - if you plan to use the MySQL
 - xml (enabled by default - don't turn it off)
 - [libcurl](https://php.net/manual/en/curl.requirements.php) -  If you plan to use the HTTP\CURLRequest library
-<br>
+
 
 ## 8. Graphical User Interface
 Figure 1 is the application usecase diagram.<br>
 ![Use Case Diagram](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/usecase/d_useCase.png? "Usecase Diagram")
 *Fig. 1 Use Case Diagram*
 
-### 8.1 Login Page
+> [!TIP]
+> Due to the plain background of the diagrams we created, such as use case, sequnce, and activity diagrams, we are unable to include all of them in this file. We are afraid you set the dark mode on your GitHub interface. You can download the relevant diagrams to further enhance your understanding of this application through the following [link](https://github.com/Fazam16/web_kp_TelkomAkses/tree/main/supporting_images)
 
+### 8.1 Login Page
+![Use Case Diagram](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/usecase/d_useCase.png? "Usecase Diagram")
+*Fig. 1 Use Case Diagram*
 
