@@ -85,3 +85,8 @@ This page serves to input data regarding incoming and outgoing NTE materials. Th
 One of the inefficient activities performed by the Warehouse Administrator is inputting/scanning incoming materials data into the warehouse one by one and repeatedly in Excel. Users have to organize data column by column. However, through the feature on this page, the warehouse administrator only needs to scan the box without worrying about the type of NTE material. Because after clicking the "Submit" button, the data will automatically be arranged by type and formatted as `.xlsx` (see the next page).
 ![Input New Materials Page](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/interface/hlm_input_abrang.png?raw=true "Input New Materials Page")
 *Fig. 5 Input New Materials Page*
+
+### 8.5 See Data Page
+After inputting new material data (see subpoint 8.4), the warehouse administrator can view the results on this page. Users can export data into an Excel file to be saved and used as a report. Additionally, users must delete all data if new materials are sent to the warehouse the following week.
+![See Data Page](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/interface/hlm_lihat_data.png?raw=true "See Data Page")
+*Fig. 6 See Data Page*
