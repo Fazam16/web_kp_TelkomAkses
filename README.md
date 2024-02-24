@@ -11,15 +11,15 @@ CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and 
 
 ## 3. CodeIgniter 4 Installation & Updates
 
-`composer create-project codeigniter4/appstarter` then `composer update` whenever there is a new release of the framework.
+1. `composer create-project codeigniter4/appstarter` then `composer update` whenever there is a new release of the framework.
 
-When updating, check the release notes to see if there are any changes you might need to apply to your `app` folder. The affected files can be copied or merged from `vendor/codeigniter4/framework/app`.
+2. When updating, check the release notes to see if there are any changes you might need to apply to your `app` folder. The affected files can be copied or merged from `vendor/codeigniter4/framework/app`.
 
-Run the commands below to check whether the CI4 instalation has been succeeded.
-'''
+3. Run the commands below to check whether the CI4 instalation has been succeeded.
+```
 cd <your_dir>
 php spark serve
-'''
+```
 
 ## Setup
 
