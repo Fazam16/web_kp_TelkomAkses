@@ -1,5 +1,7 @@
 # Aplikasi Web Telkom Akses
-CodeIgniter 4 Application Starter
+Developed by:
+1. Muhammad Fadhil Zahran Muwafa (Project Leader & Back-end)
+2. Muhammad Rafi Akbar (Project Assistant & Front-end)
 
 ## What is CodeIgniter?
 
