@@ -140,13 +140,11 @@ After inputting new material data (see subpoint 8.4), the warehouse administrato
 
 ## 9. About The Authors
 Hello, if you are interested about people behind this lovely project, you can reach out to us through the following accounts.
-1. Muhammad Fadhil Zahran Muwafa
-Project Leader: Graduate of Sriwijaya University, Department of Informatics Engineering 2020-2024, Faculty of Computer Science
+1. Muhammad Fadhil Zahran Muwafa (Project Leader: Graduate of Sriwijaya University, Department of Informatics Engineering 2020-2024, Faculty of Computer Science)
    - [LinkedIn](https://linkedin.com/in/fadhil-zahran-muwafa-269747261)
    - [Instagram](https://instagram.com/fadhilzhrn)
    - [GitHub](https://github.com/Fazam16)
-3. Muhammad Rafi Akbar
-Project Assistant: Graduate of Sriwijaya University, Department of Informatics Engineering 2020-2024, Faculty of Computer Science
+2. Muhammad Rafi Akbar (Project Assistant: Graduate of Sriwijaya University, Department of Informatics Engineering 2020-2024, Faculty of Computer Science)
    - [LinkedIn](https://linkedin.com/in/murafba)
    - [Instagram](https://instagram.com/murafba)
    - [GitHub](https://github.com/murafba)
