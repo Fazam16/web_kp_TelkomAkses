@@ -77,6 +77,11 @@ The dashboard page displays all incoming and outgoing NTE data entered by the us
 *Fig. 3 Dashboard Page*
 
 ### 8.3 Stock Opname Page
-This page serves to input data regarding incoming and outgoing NTE materials. Users can also view input history for further cross-checking in case of errors. At the top section, users can search for the specific data to perform actions, either for editing or deleting.
+This page serves to input data regarding incoming and outgoing NTE materials. This page appears after clicking the `Stock Opname` button on the Dashboard or Input Material page. Users can also view input history for further cross-checking in case of errors. At the top section, users can search for the specific data to perform actions, either for editing or deleting.
 ![Stock Opname Page](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/interface/halaman_stockOpname.png?raw=true "Stock Opname Page")
 *Fig. 4 Stock Opname Page*
+
+### 8.4 Input New Materials Page
+One of the inefficient activities performed by the Warehouse Administrator is inputting/scanning incoming materials data into the warehouse one by one and repeatedly in Excel. Users have to organize data column by column. However, through the feature on this page, the warehouse administrator only needs to scan the box without worrying about the type of NTE material. Because after clicking the "Submit" button, the data will automatically be arranged by type and formatted as `.xlsx` (see the next page).
+![Input New Materials Page](https://github.com/Fazam16/web_kp_TelkomAkses/blob/main/supporting_images/interface/hlm_input_abrang.png?raw=true "Input New Materials Page")
+*Fig. 5 Input New Materials Page*
